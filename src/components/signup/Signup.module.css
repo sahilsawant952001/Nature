@@ -1,0 +1,23 @@
+.Content{
+    padding: 5% 35% 20% 35%;
+}
+
+.Text{
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    font-size: 60px;
+}
+
+.Text2{
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+    font-size: 20px;
+}
+
+.hello{
+    margin: 3%;
+    color: white;
+    text-align: center;
+}

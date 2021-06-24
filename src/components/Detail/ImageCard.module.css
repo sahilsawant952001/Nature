@@ -1,0 +1,9 @@
+.Inline{
+    display: inline-block;
+    margin: 2%;
+}
+
+.Img{
+    margin: 5%;
+    border: 10px solid white
+}
